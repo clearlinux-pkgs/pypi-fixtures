@@ -7,7 +7,7 @@
 #
 Name     : pypi-fixtures
 Version  : 4.1.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/5e/4c/3c3faee9f554d753ee428bef3a5e8176995cffbf0b5ad3f1d6c272ab2148/fixtures-4.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5e/4c/3c3faee9f554d753ee428bef3a5e8176995cffbf0b5ad3f1d6c272ab2148/fixtures-4.1.0.tar.gz
 Summary  : Fixtures, reusable state for writing clean tests and more.
