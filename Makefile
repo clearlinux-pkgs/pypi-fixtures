@@ -1,5 +1,5 @@
 PKG_NAME := pypi-fixtures
-URL = https://files.pythonhosted.org/packages/c8/93/5f8713c22bfdd03c1f018483f8ce473a51b1b90219a70cf41730364fb30f/fixtures-4.2.4.post1.tar.gz
+URL = https://files.pythonhosted.org/packages/38/12/49e56f952ec7d1425a27e15b286ac665b243eb0ed79ed35fc735c92d0167/fixtures-4.2.5.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
